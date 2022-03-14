@@ -28,6 +28,11 @@ Graduated Symbol Maps: places symbols over an underlying map
 Cartograms: distorts the shape of geographic regions so that the area directly encodes a data variable
 
 # Hierarchies
+Node-link Diagrams: a tree diagram
+Adjacency Diagrams: a space-filling variant of the node-link diagram; rather than drawing a link between parent and child in the hierarchy, nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy.
+Enclosure Diagrams:
+
+
 
 
 
