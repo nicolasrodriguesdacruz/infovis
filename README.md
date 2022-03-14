@@ -17,5 +17,6 @@ Horizon Graphs: a chart that preserves data resolution but uses only a quarter o
 # Statistical Distributions
 Histogram
 stem-and-leaf plot: It typically bins numbers according to the first significant digit, and then stacks the values within each bin by the second significant digit.
- Q-Q plot: compares two probability distributions by graphing their quantiles against each other.
- SPLOM: enables visual inspection of correlations between any pair of variables.
+Q-Q plot: compares two probability distributions by graphing their quantiles against each other.
+SPLOM: enables visual inspection of correlations between any pair of variables.
+Parallel Coordinates: plot the data on parallel axes and then connect the corresponding points with lines
