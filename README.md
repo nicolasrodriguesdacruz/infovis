@@ -20,3 +20,15 @@ stem-and-leaf plot: It typically bins numbers according to the first significant
 Q-Q plot: compares two probability distributions by graphing their quantiles against each other.
 SPLOM: enables visual inspection of correlations between any pair of variables.
 Parallel Coordinates: plot the data on parallel axes and then connect the corresponding points with lines
+
+# Maps
+Flow Maps: depict the movement of a quantity in space and (implicitly) in time
+Choropleth Maps:  a color encoding of the geographic area
+Graduated Symbol Maps: places symbols over an underlying map
+Cartograms: distorts the shape of geographic regions so that the area directly encodes a data variable
+
+# Hierarchies
+
+
+
+
