@@ -30,10 +30,11 @@ Cartograms: distorts the shape of geographic regions so that the area directly e
 # Hierarchies
 Node-link Diagrams: a tree diagram
 Adjacency Diagrams: a space-filling variant of the node-link diagram; rather than drawing a link between parent and child in the hierarchy, nodes are drawn as solid areas (either arcs or bars), and their placement relative to adjacent nodes reveals their position in the hierarchy.
-Enclosure Diagrams:
+Enclosure Diagrams: use containment rather than adjacency to represent the hierarchy.
 
-
-
-
+# Networks
+Force-directed Layouts:  model the graph as a physical system
+Arc Diagrams: uses a one-dimensional layout of nodes, with circular arcs to represent links.
+Matrix Views: adjacency matrix: each value in row i and column j in the matrix corresponds to the link from node i to node j.
 
 
